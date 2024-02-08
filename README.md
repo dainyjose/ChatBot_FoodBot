@@ -9,7 +9,7 @@ pip install virtualenv
 
 python -m virtualenv foodbotenv
 
-env\Scripts\activate
+foodbotenv\Scripts\activate
 
 
 
