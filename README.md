@@ -5,7 +5,13 @@ All the libraries are installed in Virtualenv.
 
 cd file location
 
+pip install virtualenv
+
+python -m virtualenv foodbotenv
+
 env\Scripts\activate
+
+
 
 install Libraries
 
