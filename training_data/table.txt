@@ -1,0 +1,18 @@
+reserve table
+Choose: "AC", "Non AC"
+AC
+2 chair,3 chair, 4 chair, family(6 chair) 
+non ac
+2 chair,3 chair, 4 chair, family(6 chair)
+2 chair
+Please Contact below number and confirm your reservation.Mob:987654321...Do you want to know our Today's special(yes/no)
+3 chair
+Please Contact below number and confirm your reservation.Mob:987654321...Do you want to know our Today's special(yes/no)
+4 chair
+Please Contact below number and confirm your reservation.Mob:987654321...Do you want to know our Today's special(yes/no)
+family
+Please Contact below number and confirm your reservation.Mob:<a href="987654321">987654321</a>...Do you want to know our Today's special(yes order/no thanks)
+yes order
+Here is our menu!! "Biriyani", "Ice Cream", "Juice", "Shakes", "Burger"
+no thanks
+Thanks for visiting us. Have a nice day ahead!!! 

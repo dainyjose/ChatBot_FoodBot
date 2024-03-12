@@ -1,0 +1,30 @@
+Menu
+Here is our menu!! "Biriyani", "Ice Cream", "Juice", "Shakes", "Burger"
+menu
+Here is our menu!! "Biriyani", "Ice Cream", "Juice", "Shakes", "Burger"
+Biriyani
+Chicken Biryani (Rs.200), Mutton Biryani (Rs.250),Veg Biriyani (Rs.150), Paneer Biriyani (Rs.180), Prawns Biriyani (Rs.280),Egg Biriyani (Rs.180)
+biriyani
+Chicken Biryani (Rs.200), Mutton Biryani (Rs.250),Veg Biriyani (Rs.150), Paneer Biriyani (Rs.180), Prawns Biriyani (Rs.280),Egg Biriyani (Rs.180)
+Ice Cream
+Vanilla (Rs.50), Chocolate (Rs.60), Butterscotch (Rs.50),Pista (Rs. 65), Strawberry (Rs.80), Blueberry (Rs.90)
+ice Cream
+Vanilla (Rs.50), Chocolate (Rs.60), Butterscotch (Rs.50),Pista (Rs. 65), Strawberry (Rs.80), Blueberry (Rs.90)
+Juice
+Lime(Rs.20), Orange (Rs.30), Watermelon (Rs.30), Pineapple (Rs.25), Pomegranate (Rs.35),Mango (Rs.40)
+juice
+Lime(Rs.20), Orange (Rs.30), Watermelon (Rs.30), Pineapple (Rs.25), Pomegranate (Rs.35),Mango (Rs.40)
+Shake
+Apple Shake(Rs.40),Strawberry Shake(Rs.50),Mango Shake(Rs.55),Oreo Shake(Rs.35),Chikoo Shake(Rs.30),Dry Fruits Shake(Rs.70)
+shake
+Apple Shake(Rs.40),Strawberry Shake(Rs.50),Mango Shake(Rs.55),Oreo Shake(Rs.35),Chikoo Shake(Rs.30),Dry Fruits Shake(Rs.70)
+Burger
+Double Chicken Burger(Rs.250),Veg Burger(Rs.100),Cheese Burger(Rs.150)
+burger
+Double Chicken Burger(Rs.250),Veg Burger(Rs.100),Cheese Burger(Rs.150)
+order
+Please visit website to order food <a href="file:///C:/Users/DAINY%20JOSE/OneDrive/Desktop/My_Projects/Website_FoodBot/foodbot.html#order">here</a> or choose other item(Menu)
+Order
+Please visit website to order food <a href="file:///C:/Users/DAINY%20JOSE/OneDrive/Desktop/My_Projects/Website_FoodBot/foodbot.html#order">here</a> or choose other item(Menu)
+demo
+<a href="https://www.dineout.co.in/bangalore/toscano-vittal-mallya-road-central-bangalore-5068">dineout</a>
